@@ -1,0 +1,7 @@
+D:\Documentos\Marcelo\Faculdade\C#\Projeto1\Meu primeiro progama C#\Meu primeiro progama C#\bin\Debug\Meu primeiro progama C#.exe.config
+D:\Documentos\Marcelo\Faculdade\C#\Projeto1\Meu primeiro progama C#\Meu primeiro progama C#\bin\Debug\Meu primeiro progama C#.exe
+D:\Documentos\Marcelo\Faculdade\C#\Projeto1\Meu primeiro progama C#\Meu primeiro progama C#\bin\Debug\Meu primeiro progama C#.pdb
+D:\Documentos\Marcelo\Faculdade\C#\Projeto1\Meu primeiro progama C#\Meu primeiro progama C#\obj\Debug\Meu primeiro progama C#.csproj.AssemblyReference.cache
+D:\Documentos\Marcelo\Faculdade\C#\Projeto1\Meu primeiro progama C#\Meu primeiro progama C#\obj\Debug\Meu primeiro progama C#.csproj.CoreCompileInputs.cache
+D:\Documentos\Marcelo\Faculdade\C#\Projeto1\Meu primeiro progama C#\Meu primeiro progama C#\obj\Debug\Meu primeiro progama C#.exe
+D:\Documentos\Marcelo\Faculdade\C#\Projeto1\Meu primeiro progama C#\Meu primeiro progama C#\obj\Debug\Meu primeiro progama C#.pdb
